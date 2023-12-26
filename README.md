@@ -1,2 +1,3 @@
 # NoLogicalBrains
-This is my first Git Repositoryi
+This is my first Git Repository.
+Author - Prajwal Bhanarkar 
